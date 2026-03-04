@@ -8,7 +8,7 @@ Soluciones implementadas de los tres ejercicios del Capítulo 2 del libro *Flex 
 
 ```
 EjercFlex-Cap2/
-├── README.md          ← este archivo
+├── README.md          
 ├── Makefile           ← compila y prueba todos los ejercicios
 ├── ex1/
 │   └── linematch.l    ← Ejercicio 1: match línea por línea
