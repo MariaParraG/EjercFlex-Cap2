@@ -7,7 +7,7 @@ Soluciones implementadas de los tres ejercicios del Capítulo 2 del libro *Flex 
 ## Estructura del proyecto
 
 ```
-ch2_exercises/
+EjercFlex-Cap2/
 ├── README.md          ← este archivo
 ├── Makefile           ← compila y prueba todos los ejercicios
 ├── ex1/
